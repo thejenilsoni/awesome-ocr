@@ -20,6 +20,7 @@ The repository currently contains a focused initial release with these OCR modul
 - `tesseract/` — classic Tesseract OCR engine with example scripts and configuration.
 - `easyocr/` — lightweight PyTorch-based OCR for simple and multilingual text extraction.
 - `paddleocr/` — PaddlePaddle OCR with layout-aware detection and strong multilingual support.
+- `marker/` — fast, high-accuracy PDF to Markdown conversion with advanced document understanding.
 
 Each module folder includes a model-specific script, a `requirements.txt`, and a module README explaining how to run that example.
 
