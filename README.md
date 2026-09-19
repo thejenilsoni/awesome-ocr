@@ -21,9 +21,11 @@ The repository currently contains a focused initial release with these OCR modul
 - `easyocr/` — lightweight PyTorch-based OCR for simple and multilingual text extraction.
 - `paddleocr/` — PaddlePaddle OCR with layout-aware detection and strong multilingual support.
 - `marker/` — fast, high-accuracy PDF to Markdown conversion with advanced document understanding.
- - `surya/` — transformer-based OCR with strong layout analysis and high accuracy on complex documents.
- - `doctr/` — deep-learning OCR examples using docTR (PyTorch/TensorFlow) for end-to-end recognition.
- - `rapidocr/` — lightweight, high-speed OCR optimized for edge and low-latency applications.
+- `surya/` — transformer-based OCR with strong layout analysis and high accuracy on complex documents.
+- `doctr/` — deep-learning OCR examples using docTR (PyTorch/TensorFlow) for end-to-end recognition.
+- `rapidocr/` — lightweight, high-speed OCR optimized for edge and low-latency applications.
+- `docling/` — IBM's document processing toolkit for converting PDFs and other formats to Markdown, HTML, or JSON.
+- `nougat/` — Meta AI's model for transcribing scientific PDFs while preserving LaTeX mathematics and tables.
 
 Each module folder includes a model-specific script, a `requirements.txt`, and a module README explaining how to run that example.
 
