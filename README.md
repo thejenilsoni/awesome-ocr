@@ -26,6 +26,9 @@ The repository currently contains a focused initial release with these OCR modul
 - `rapidocr/` — lightweight, high-speed OCR optimized for edge and low-latency applications.
 - `docling/` — IBM's document processing toolkit for converting PDFs and other formats to Markdown, HTML, or JSON.
 - `nougat/` — Meta AI's model for transcribing scientific PDFs while preserving LaTeX mathematics and tables.
+- `mineru/` — high-quality PDF-to-Markdown and JSON conversion specialist for complex layouts, formulas, and tables.
+- `markitdown/` — Microsoft utility for converting PDFs, Office files, and images into clean Markdown.
+- `zerox/` — simple document OCR tool that routes files through vision models to produce structured Markdown output.
 
 Each module folder includes a model-specific script, a `requirements.txt`, and a module README explaining how to run that example.
 
